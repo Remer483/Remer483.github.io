@@ -1,6 +1,6 @@
 # CURRICULUM 
 
-<img src="Captura.png" width="100" height="100">
+<img src="Captura.PNG" width="100" height="120">
 
 Benjamin Sanchez Geovani 
 
