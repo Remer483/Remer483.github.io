@@ -29,13 +29,12 @@ diseño y gestión de paginas
 web
 
 ## Habilidades
--Sentido de la responsabilidad y confianza
+* Sentido de la responsabilidad y confianza
 
--Óptimo desempeño en equipo e independiente.
+* Óptimo desempeño en equipo e independiente.
 
--Capacidad para trabajar en varias tareas a la vez y bajo
-
--presión.
+* Capacidad para trabajar en varias tareas a la vez y bajo
+presión.
 
 ## Formacion
 
